@@ -1,0 +1,38 @@
+{
+  "name": "nebula-glow",
+  "displayName": "Nebula Glow",
+  "description": "nebula glow dark theme for midnight coding",
+  "version": "0.0.1",
+  "publisher": "yeakiniqra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeakiniqra/Nebula-Glow"
+  },
+    "keywords": [
+    "theme",
+    "dark",
+    "nebula",
+    "glow",
+    "midnight",
+    "coding",
+    "color-theme",
+    "syntax-highlighting"
+    ],
+    "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nebula Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nebula Glow-color-theme.json"
+      }
+    ]
+  }
+}
