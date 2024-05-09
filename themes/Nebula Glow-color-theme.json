@@ -5,7 +5,18 @@
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#3e3574",
 		"sideBarTitle.foreground": "#afadad",
-		"sideBar.background":"#10111d", 	
+		"sideBar.background":"#10111d", 
+		"statusBar.background": "#141122"	,
+		"menu.background": "#0f0e13",
+		"menu.foreground": "#c9c4c4",
+		"editorGroupHeader.tabsBackground": "#141122",
+		"panel.background": "#0f0c11",
+		"editor.lineHighlightBackground": "#000000",
+		"editor.selectionBackground": "#1e2a47",
+		"titleBar.activeBackground": "#0d0a14",
+		"titleBar.inactiveBackground": "#0c080f",
+		"activityBar.activeBackground": "#181a25",
+		"activityBar.background": "#10101a"
 	},
 	"tokenColors": [
 		{
