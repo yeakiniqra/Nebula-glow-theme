@@ -9,14 +9,20 @@
 		"statusBar.background": "#141122"	,
 		"menu.background": "#0f0e13",
 		"menu.foreground": "#c9c4c4",
-		"editorGroupHeader.tabsBackground": "#141122",
+		"focusBorder": "#0d0d13",
+		"progressBar.background": "#1a3649",
+		"editorGroupHeader.tabsBackground": "#0f0f15",
 		"panel.background": "#0f0c11",
+		"notifications.background": "#0d0d13",
+		"notifications.foreground":  "#aba9a9",
 		"editor.lineHighlightBackground": "#000000",
 		"editor.selectionBackground": "#1e2a47",
 		"titleBar.activeBackground": "#0d0a14",
 		"titleBar.inactiveBackground": "#0c080f",
 		"activityBar.activeBackground": "#181a25",
-		"activityBar.background": "#10101a"
+		"activityBar.background": "#10101a",
+		"terminal.background": "#090e16", 
+		"tab.inactiveBackground": "#201b30"
 	},
 	"tokenColors": [
 		{
@@ -111,7 +117,14 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#c89fee"
+				"foreground": "#b887e6"
+			}
+		},
+		{
+			"name": "Import Statements",
+			"scope": "keyword.control.import, meta.import",
+			"settings": {
+				"foreground": "#ec8f03" 
 			}
 		},
 		{
