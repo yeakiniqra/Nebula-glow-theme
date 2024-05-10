@@ -6,7 +6,7 @@
 		"activityBarBadge.background": "#3e3574",
 		"sideBarTitle.foreground": "#afadad",
 		"sideBar.background":"#10111d", 
-		"statusBar.background": "#141122"	,
+		"statusBar.background": "#141122",
 		"menu.background": "#0f0e13",
 		"menu.foreground": "#c9c4c4",
 		"focusBorder": "#0d0d13",
