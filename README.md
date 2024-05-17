@@ -9,9 +9,9 @@
     </ul>
 
 <h2>🔍 Preview</h2>
-    <img src="screenshots/nebula1.png" alt="Preview Image 1" class="theme-image">
-    <img src="screenshots/nebula2.png" alt="Preview Image 2" class="theme-image">
-    <img src="screenshots/nebula3.png" alt="Preview Image 3" class="theme-image">
+    <img src="screenshots/nebulas1.png" alt="Preview Image 1" class="theme-image">
+    <img src="screenshots/nebulas2.png" alt="Preview Image 2" class="theme-image">
+    <img src="screenshots/nebulas3.png" alt="Preview Image 3" class="theme-image">
 
 <h2>📥 Installation</h2>
     <p>Follow these simple steps to install the Nebula Glow theme:</p>
