@@ -35,7 +35,17 @@
 		"activityBar.activeBackground": "#181a25",
 		"activityBar.background": "#10101a",
 		"terminal.background": "#090e16", 
-		"tab.inactiveBackground": "#201b30"
+		"tab.inactiveBackground": "#201b30",
+        "tab.activeBackground": "#1a1730", // Active tab background
+	    "gitDecoration.modifiedResourceForeground": "#79a6f6", // Brighter blue
+        "gitDecoration.ignoredResourceForeground": "#5c6370",  // Subtle grey
+        "gitDecoration.deletedResourceForeground": "#ff6c6b",  // Noticeable red
+        "gitDecoration.renamedResourceForeground": "#56b6c2",  // Teal color
+        "gitDecoration.addedResourceForeground": "#98c379",    // Vibrant green
+        "gitDecoration.untrackedResourceForeground": "#98c379", // Same as added resource
+        "gitDecoration.conflictingResourceForeground": "#e5c07b", // Distinct orange
+        "gitDecoration.stageDeletedResourceForeground": "#d19a66", // Muted red
+        "gitDecoration.stageModifiedResourceForeground": "#61afef", // Muted blue
 	},
 	"tokenColors": [
 		{
