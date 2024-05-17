@@ -36,7 +36,7 @@
 		"activityBar.background": "#10101a",
 		"terminal.background": "#090e16", 
 		"tab.inactiveBackground": "#201b30",
-        "tab.activeBackground": "#1a1730", // Active tab background
+        
 	    "gitDecoration.modifiedResourceForeground": "#79a6f6", // Brighter blue
         "gitDecoration.ignoredResourceForeground": "#5c6370",  // Subtle grey
         "gitDecoration.deletedResourceForeground": "#ff6c6b",  // Noticeable red
